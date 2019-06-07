@@ -1,3 +1,11 @@
 /*Componentes del sitio*/
+header {
+  padding-left: 20px;
+  text-align: left;
+}
+
+.logo_header {
+  width: 40%;
+}
 
 /*# sourceMappingURL=style.css.map */
