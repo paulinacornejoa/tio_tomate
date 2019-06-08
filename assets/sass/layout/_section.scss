@@ -1,12 +1,102 @@
 
-//Header
-header {
-  padding-left: 20px;
-  text-align: left;
-  background-color: $white;
+//Primer section
+.first_text {
+  background-color: $jellybean;
+  height: 580px;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+}
+
+.text_1{
+  padding-top: 170px;
+}
+
+.text_2 {
+  line-height: 5px;
+}
+
+h1 {
+  color: $white;
+}
+
+
+//Segundo section
+.second_section {
+background-color: $silver;
+text-align: center;
 
 }
-.logo_header{
-  width: 40%;
+
+.plant_img {
+width: 70%;
+padding-top: 5%;
+}
+
+.description_p1 {
+text-align: left;
+padding-left:20%;
+padding-right: 20%;
+padding-bottom: 40px;
+}
+
+//Tercer section
+.third_section {
+  background-color: $snow;
+  text-align: center;
+}
+
+.cherry-text{
+  text-align: center;
+  color: $granitegray;
+}
+
+.tomatoes_img {
+  width: 70%;
+  padding-top: 5%;
+}
+
+.description_p2 {
   text-align: left;
+  padding-left:20%;
+  padding-right: 20%;
+  padding-bottom: 40px;
+}
+//Cuarta section
+
+.orange-div1 {
+  background-color: $jellybean;
+  height: 200px;
+  padding-top: 30px;
+}
+
+//Quinta section
+.fifth_section {
+  background-color: $snow;
+}
+
+.woman_img {
+  width: 30%;
+  padding-top: 6%;
+  padding-left: 35%;
+}
+.man_img {
+  width: 30%;
+  padding-left: 35%;
+}
+
+.description_p3, .description_p4{
+  text-align: left;
+  padding-left:20%;
+  padding-right: 20%;
+  padding-bottom: 40px;
+}
+
+//sexta section
+
+.orange-div2 {
+  background-color: $jellybean;
+  height: 250px;
+  padding-top: 30px;
+  text-align: center;
 }

@@ -1,0 +1,65 @@
+body {
+  font-family: $raleway;
+}
+
+.text_1 {
+font-weight: $extra-light;
+font-size: $x-large;
+}
+.text_2 {
+font-weight: $bold;
+font-size: $x-large;
+
+
+}
+//Tipografía segunda y tercera sección
+.second_section{
+  color: $white
+
+}
+.organic-text {
+  font-size: $large;
+  font-weight: $bold;
+}
+
+.third_section {
+  color:$granitegray;
+}
+
+.cherry-text {
+  font-size: $large;
+  font-weight: $bold;
+}
+
+//Tipografía nosotros
+
+.about_us {
+  font-size: $x-large;
+  text-align: center;
+}
+
+//Tipografía nosotros
+.woman-text, .man-text {
+  font-size: $large;
+  font-weight: $bold;
+  color:$granitegray;
+  text-align: center;
+}
+
+.description_p3, .description_p4{
+  color:$granitegray;
+}
+
+//Tipografía nosotros
+
+.business_tomate {
+  font-size: $large;
+  color: $white;
+}
+
+//Tipografia button
+
+.button {
+  font-size: $x-large;
+  font-weight: $bold;
+}
